@@ -1,0 +1,1864 @@
+:: StoryTitle
+Game demo
+
+
+:: StoryData
+{
+  "ifid": "1C350C7F-CBD0-4FDF-8E79-FB6F876319C7",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Untitled Passage",
+  "zoom": 0.6
+}
+
+
+:: \ In my head? what? {"position":"1875,975","size":"100,100"}
+
+
+
+
+
+
+Gabriel: Never mind that! Now that you noticed me, I think that you and me are going to be very good friends. *A wave of anxiety flows over you*
+
+[[“Okay cool!”]] 
+
+[[why did that sound so ominous…]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: \ What do you want, why am I here? {"position":"2025,2400","size":"100,100"}
+
+
+
+
+
+
+?: I don’t know I haven’t seen anyone traverse this path in what feels like forever. Please talk to me. I'm lonely.
+
+*Before you get a chance to reply the flame flies further into the forest almost becoming invisible.*
+
+[[Ignore and move forward]]
+[[Ask For Advice]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: \ what do you mean by no choice…? {"position":"2275,3525","size":"100,100"}
+
+
+
+
+
+Well in game theory they taught us- Wait no! Stop stalling!
+There is nowhere else to go!
+Enter the swamp…
+
+[[Yes]] 
+[[Go back.]]
+
+
+:: ! {"position":"2487.5,6275","size":"100,100"}
+
+
+
+
+You jump, paralyzed by fear, unable to talk or move. A creak is heard again. 
+
+You go back to the entrance of the building to plan your attack.
+
+Lilith: *picks up a chunk of drywall* *ggggruh*
+
+Underneath lies a coffee table, and sitting on top is a gun. This forest is dangerous for sure, but it is more likely that it was used for hunting. 
+
+ [[Alright. I hope this thing is loaded.]] 
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: !!! {"position":"2575,7775","size":"100,100"}
+
+
+
+
+
+Umbra: What is… happening… to me…
+
+*A floating mirror apparition blocks your view of the figure on your chest. You can hardly peak over but the figure’s hair begins to change into a curly grey short haircut.*
+
+Umbra: I think I remember my name now. 
+
+Lilith: What is it?
+
+*The mirror dissipates. You can now see. The shadowed figure changes into an old grandma, presumably the person who lived in the cottage. With a huge smile on her face, she looks at her hands with shock that she is now herself. She then fades away. Behind a photograph is left. *
+[[Take a look.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: " How long have I been asleep Clementine?". {"position":"2650,8400","size":"100,100"}
+
+
+
+
+Clementine: *meow*
+
+You go to your kitchen and make a cup of coffee and sit outside, your morning ritual. You get up and make your way to your art studio. Inside lies your most recent painting. It is a forest. You are proud of it and think that it is pretty but something is missing. There are many layers of paint over what were scrapped ideas of how to make this landscape unique. Maybe I can finish this later you think.
+[[The next day.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "Do you remember when you were human" {"position":"2575,7400","size":"100,100"}
+
+
+
+
+Umbra: I lived in the forest. It is pretty obvious. Now give up and let me consume you.
+
+Lilith: You need to give me more information. Did you like collecting? I saw trinkets on your shelf.
+
+Umbra: No! You don’t know who I am.
+
+Lilith: I know you will never be me. 
+
+*A constricting bind pins you to the bed.*
+
+[[I also saw a mug on your table. Did you like coffee? Or tea?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "How long have I been asleep Clementine?" {"position":"2400,8400","size":"100,100"}
+
+
+
+
+Clementine: *meow*
+
+You go to your kitchen and make a cup of coffee and sit outside, your morning ritual. You get up and make your way to your art studio. Inside lies your most recent painting. It is a forest. You are proud of it and think that it is pretty but something is missing. There are many layers of paint over what were scrapped ideas of how to make this landscape unique. 
+
+With new eyes, you hastily implement your new ideas with paint and confidence. Now among the forest are remnants of your adventure last night. It was only a lucid dream, but it felt so real. Among the composition are Ignis and Umbra, the monsters that you grew attached to. A small cottage belonging to the sweet lady is nestled between trees. Missing visually are Gabriel and Alastor, but their voices are informing your creative decisions. You then write your artist statement, inspired by your journey of becoming an artist. 
+[[The next day]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "I have never seen something like this before. It is beautiful." {"position":"2650,8275","size":"100,100"}
+
+
+
+
+Lilith: Gabriel, Alastor look!
+
+Mesmerized by the fantastical sky you feel calm. The sun grows brighter. Soon your eyes are filled with such light that it is too bright to see. 
+
+Lilith: …
+
+You open your eyes. You see your ceiling, a very different view from an enchanted forest. The light is coming through your window through the sheer curtains radiating heat onto wherever the sun beams touch. Your cat is curled up on your bed sunbathing.
+[[" How long have I been asleep Clementine?".]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "Stop it" {"position":"2375,5400","size":"100,100"}
+
+
+
+
+
+?: Do you really think you’re going to make it as an artist? How pitiful. Do you think you’re gonna be the next Da Vinci? Pft, Don’t make me laugh. 
+*A sinister laugh comes out from the void*
+You rush towards the source of the noise
+[[Use the pallet knife.]] (if:(history: where its name contains "Investigate the object?")'s length is 1)[[Use the kitchen knife.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "What do you remember about yourself? We need to cure this curse." {"position":"2575,7650","size":"100,100"}
+
+
+
+
+*You panic. You are unsure how to cure this spell. You look around for a clue to help you.
+*
+Around the bedroom, many items are scattered among shelves. Crystals, herbs, candles.
+
+Lilith: Are you a witch?
+
+*Umbra’s eyes glow red. The red hue fades into a yellow light. *
+
+The glow from Umbra’s eyes reveals the silhouette of a cauldron. 
+
+Lilith: You are! Your eyes! They changed.
+[[!!!]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "Who is that" {"position":"2500,5400","size":"100,100"}
+
+
+
+
+?: You really want to know? The truth? The hard work that you put into making this thing of yours a dream. It’s all a waste of time. You’re not going to be anything because of it. 
+*A sinister laugh comes out from the void*
+You rush towards the source of the noise
+[[Use the pallet knife.]] (if:(history: where its name contains "Investigate the object?")'s length is 1)[[Use the kitchen knife.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: "why" {"position":"2387.5,4900","size":"100,100"}
+
+
+
+
+
+*You feel a tingle chilling down your spine. 
+The wind is howling, and the leaves twirl abrasive in a dance.
+It’s nostalgic, yet different. 
+You turn your head around
+Looking behind you
+A figure stands behind you.*
+
+?: You don’t have what it takes. 
+
+Lilith: What? Who are you? 
+You blink, and the figure is gone.
+You look ahead of you and the swamp that was once surrounding you is gone.
+A brick wall lies ahead.
+Try to [[Go left]] or [[Go right]] maybe  [[*look up*]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: *Think!* {"position":"2025,2000","size":"100,100"}
+
+
+
+
+
+
+
+Lilith: Maybe I can find some sort of weapon? Maybe a stick? 
+
+*You begin looking in the bushes for something she can wield.*
+
+*A shimmer appears nestled between some leaves.*
+
+[[Take a look]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: *You look down at your shoes.* {"position":"2387.5,4775","size":"100,100"}
+
+
+
+
+Lilith: Didn’t I walk through a swamp earlier, why are my shoes so…
+
+*dry.*
+*Your shoes are clean, with no residue of swamp water or dirt on them*
+
+Lilith: Guys, what’s going on? 
+
+Alastor: I don’t know what you’re talking about
+
+Gabriel: This doesn’t seem right…
+
+?: You don’t know what you’re doing. 
+
+Lilith: What was that?! 
+
+?: You’re not going to make it as an artist, you should just quit while you’re ahead. 
+
+Lilith: Why is it getting louder?
+[["why"]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: *look up* {"position":"2375,5150","size":"100,100"}
+
+
+
+
+
+*The ceiling of the building is blasted off. But the darkness consumes the empty space. 
+You are overwhelmed by the distortion of reality, and you start to grow weary. 
+A sudden headrush.*
+*You start to feel hazy. *
+
+Lilith: Guys, I don’t feel so good.
+
+You fall to the ground.  
+[[You pass out]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: .. {"position":"2150,3775","size":"100,100"}
+
+
+
+
+But you. You were the only one that noticed me, played with me, followed my path, you saw me for more than the fire, a friend. For that I can’t ever let you leave. Stay. Let’s have a tea party with the forest animals. My only friend..
+(if:(history: where its name contains "Talk")'s length is 1)[[“I have to go, if you won’t let me leave, I’ll find my own way out."]]
+(if:(history: where its name contains "Talk")'s length is 0)[[Friend? I don’t even know who you are. If you’re stopping me here, then I’ll just have to force my way out!]]
+
+
+:: ... {"position":"1300,450","size":"100,100"}
+
+
+
+
+
+
+
+*You feel a tingle chilling down your spine. The wind is eerie, howling, and pushing between the follicles on your head. The grass dances an elegant one, flowing together like the strokes of a brush, each stroke working together in harmony. The wind grows weaker, the dances slow to a stop. Then suddenly…*
+
+
+
+[[A Breeze?]] 
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>  
+
+
+:: A Breeze? {"position":"1475,425","size":"100,100"}
+
+
+
+
+
+
+
+*A gust of wind blazes through the fields!
+The pace of the grass is inconsistent, and alarming. 
+The stroke from the winds and the forest is disturbed. 
+Thus begins your awakening.*
+
+
+
+[[Open your eyes]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: A door appears {"position":"2400,8150","size":"100,100"}
+
+
+
+
+You walk out of the cottage onto the path. It feels good to have helped a trapped spirit. You do not know where to go next. Having a moment to finally breathe you look back at the building and smile. You look at all of the plants that make up what once was the yard. Birds chirping fills you with joy. You see a squirrel run up the tree. 
+
+Alastor: It looks like our work here is done!
+
+Lilith: Yeah it is. 
+
+You look around. The sun seems to be finally rising. The colours of the sunrise fill the sky. Cadmium red and yellow, and a touch of titanium white on top of a muted ultramarine blue sky. The colours start swirling like an aurora borealis. 
+[[Take in the beauty]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: A door appears. {"position":"2650,8150","size":"100,100"}
+
+
+
+
+
+You walk out of the cottage onto the path. It feels good to have helped a trapped spirit. You do not know where to go next. Having a moment to finally breathe you look back at the building and smile. You look at all of the plants that make up what once was the yard. Birds chirping fills you with joy. You see a squirrel run up the tree. 
+
+Alastor: It looks like our work here is done!
+
+Lilith: Yeah it is. 
+
+You look around. The sun seems to be finally rising. The colours of the sunrise fill the sky. Cadmium red and yellow, and a touch of titanium white on top of a muted ultramarine blue sky. The colours start swirling like an aurora borealis. 
+[["I have never seen something like this before. It is beautiful."]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Again {"position":"2387.5,4275","size":"100,100"}
+
+
+
+
+(set: $Karma to it -1)
+*Ignis is quickly shrinking.*
+
+*Ignis cries in agony. *
+
+Ignis: Stop it! It really hurts!
+
+It attempts to move back.
+[[Keep Going]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Alright. I hope this thing is loaded. {"position":"2487.5,6400","size":"100,100"}
+
+
+
+
+Fumbling around with the drawers of the table you find some bullets to reload the gun with.
+
+The gun was empty, it was a good thing that you found ammo.
+[[Go back to the hallway and procede]]
+[[Keep searching]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Am I? {"position":"2375,6275","size":"100,100"}
+
+
+
+
+Alastor: Boo.
+
+Lilith: AH! 
+
+Alastor: Got you.
+
+*You go back into the hallway to explore more. *
+
+A loud crash is heard from the end of the hallway. A shadow-like shape is seen entering the last room of the hallway.
+
+Gabriel: Uhm maybe we can look for something else to fight with? Please? I’m scared. 
+Go back to the [[Left]] door
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Ask For Advice {"position":"2150,2525","size":"100,100"}
+
+
+
+
+
+Lilith: Guys? What should I do?
+
+Gabriel: Follow it! It could be another friend that can help us.
+
+Alastor: Nonsense, don’t follow it! It might be a trap. If you ever see it again you should just kill it! 
+
+Lilith: Nobody is going to kill anything here! Geez. What am I going to do?
+
+[[Follow the flame]] 
+[[ignore]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Attack {"position":"2525,5650","size":"100,100"}
+
+
+
+
+(set: $Karma to it -2)
+*The Kitchen Knife has no effect on the glowy figure. *
+
+?: See, I told you. You don’t have what it takes…
+
+*The figure starts to take form, and snatches the kitchen knife from your hands. As it takes its full form, Lilith starts to see a resemblance. *
+
+Lilith: Why… Do you look like… 
+
+Umbra: Me? It’s time to wake up Lilith! 
+
+*Umbra lunges forward and swings the knife at you. *
+[[Wake up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Blindly fire {"position":"2450,7525","size":"100,100"}
+
+
+
+
+*The shot misses and instead breaks a window.*
+
+Umbra: Little one. Stay and have dinner with me. I can make cookies.
+
+Lilith: I know what you are on to. You just want me to stay here forever! I can’t do that.
+
+Umbra: Fine. I can make cookies from you instead. Actually, I need your soul. I am trapped and I cannot escape unless I consume a soul and turn into a human. I already look like you, now I just need you. 
+
+You struggle to move your arms but it is getting harder. You focus on moving your fingers and toes slowly and manage to get some movement back into your whole body. You place your finger on the trigger.
+[[One more shot]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Dodge {"position":"2025,3775","size":"100,100"}
+
+
+
+
+*You dodge the attack. Barely. *
+
+*If it connected, you would’ve been done for.*
+
+Lilith: Guys I could use some help over here! 
+
+Alastor: This thing is not going to let you leave unless you do something about it.
+If you really want to get out of here, you’re going to have to kill it. 
+
+Gabriel: Wait, don't be so rash! Maybe there can be another way to handle it. Maybe try to talk and find an understanding. 
+
+Alastor: Do you really think this thing is in the mood to talk?! Just use your knives, any of them! 
+
+[[Wait we can talk about this]] [[Use the pallet knife]] (if:(history: where its name contains "Investigate the object.")'s length is 1)[[Use the kitchen knife]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Enter {"position":"1900,1750","size":"100,100"}
+
+
+
+
+
+
+
+*Bushes start shaking*
+
+Lilith: W-what is that? 
+
+[[Keep going]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Enter the hallway {"position":"2425,6025","size":"100,100"}
+
+
+
+
+
+*You enter the hallway. Remnants of an old carpet are laying on the floor tattered and covered in debris from the building’s decaying body. As you take a step the dust clouds around your foot.*
+
+Alastor: Looks like someone needs to clean their carpet. 
+
+Lilith: *sighs* 
+
+There are doors on the right and left. 
+
+[[Right]] or [[Left]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Fight {"position":"2450,7275","size":"100,100"}
+
+
+
+(set: $Karma to it - 2)
+Lilith: Get your own identity! 
+*You draw you gun and ready yourself to fire*
+[[Fire]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Fire {"position":"2450,7400","size":"100,100"}
+
+
+
+
+
+*Unable to move your torso you pull the gun out of your pocket and shoot the monster.* 
+
+Lilith: Stop copying me. Stop toying with me!
+
+*The shadow chokes you and you become dizzy, unable to clearly see. *
+[[Blindly fire]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Follow the flame {"position":"2150,2650","size":"100,100"}
+
+
+
+
+Alastor: You are far too trusting and curious.
+
+?: You won’t leave me like the rest of them, right? 
+
+*screen turns fuzzy* 
+
+ [[Turn around]]
+ [[Talk]]
+ <audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Follow the flames {"position":"2150,3150","size":"100,100"}
+
+
+
+
+*You follow the path, enlightened by the sight, and you see the source of the voice, The flames form into a human-like figure. Sparks fly off from the flames, chaotic but yet calming. You think, “pretty…”.*
+
+[[Move Forward]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Friend? I don’t even know who you are. If you’re stopping me here, then I’ll just have to force my way out! {"position":"2450,3775","size":"100,100"}
+
+
+
+(set: $Karma to it - 3)
+Lilith: I don’t even know you!
+
+Ignis: Well maybe you’ll know me if I did this!
+
+*Ignis rushes towards you followed by a trail of frost. Upset Ignis’ flames turn blue.*
+
+*Ignis throws elemental shards of ice at you. *
+
+[[dodge]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Get going {"position":"2425,5900","size":"100,100"}
+
+
+
+
+*The building is covered in plant matter and is heavily decayed. Each wall has its own history of how Mother Nature has attempted to reclaim this now unused space. The past use of the space is unknown.*
+
+Gabriel: Look at all of these plants! I love houseplants! Gardening is so fun!
+
+Alastor: These are weeds, not houseplants. Does your garden look abandoned?
+
+Gabriel: … 
+
+Alastor: Can you even keep a cactus alive?
+
+*A creaking noise from another room of the building is faintly heard.*
+
+Lilith: Sh… be quiet.
+[[Enter the hallway]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Go back to the hallway and procede {"position":"2450,7150","size":"100,100"}
+
+
+
+Lilith: I need to go fight this monster. *yawn* Let’s go, Alastor and Gabriel.
+
+Alastor: Looks like you need some coffee huh?
+
+*You enter the room, determined, and a gust of wind blows from the window with such velocity it pushes you onto the bed. You cannot get up. At the end of the bed, a shadowed figure is seen. The figure resembles you… *
+
+Lilith: "That’s me?"
+
+*The shadow appears on your chest. You panic feeling unable to breathe properly. It feels like there are hundreds of pounds on your chest. *
+
+[[Fight]]     
+[[Talk.]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Go back. {"position":"2275,3650","size":"100,100"}
+
+
+
+
+
+You turn and walk back, and you follow the path you came from, however, instead of leading you back to the sign, you end up at the swamp, how convenient. You must have gotten lost along the way. 
+
+[[Yes]]
+
+
+:: Go inside {"position":"2625,6650","size":"100,100"}
+
+
+
+
+*The red light coming from outside of the window was not there before. A new smell of rotten eggs fills the room. It feels as if you are being watched. *
+
+[[Turn around.]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Go left {"position":"2387.5,5025","size":"100,100"}
+
+
+
+
+*Another wall surrounds you.*
+[[*look up*]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Go right {"position":"2512.5,5025","size":"100,100"}
+
+
+
+
+Another wall surrounds you.
+
+[[*look up*]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Go up and read the sign {"position":"2150,3025","size":"100,100"}
+
+
+
+
+*On your way to read the sign,An ominous voice comes out of the shadows.*
+
+?: a traveller?
+
+*As you hear this voice, a picture floods into your mind, the painting you're working on for the exhibition. Flashes of colours flare up your mind as the images disappear. The voice continues.*
+
+?: Please talk to me. I’m lonely.
+
+*You turn around and  realizes the voice is already gone. A trail of flames presents a path.*
+
+[[Follow the flames]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: HUH? Where’d that come from? {"position":"1775,625","size":"100,100"}
+
+
+
+
+
+
+
+Gabriel: Woah that’s new! You can hear me! Sorry for the disturbance, but I see that you woken up and I couldn’t help but say hi I’m Gabriel.
+
+
+ 
+   [[Okay…? I’m Lilith. I’m still kind of scared, why can’t I see you?]]
+   <audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Hug. {"position":"1900,4275","size":"100,100"}
+
+
+(set: $Karma to it + 5)
+
+*You open your arms to the fire, Your arms tighten around its flames. Warm but yet feels so cold. The feeling of warmth wraps around your body as Ignis starts to wither. *
+
+Ignis: Thank you… I needed that… best friend.
+
+*Ignis vaporizes into the air leaving a photograph. *
+
+[[Pick it up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: I also saw a mug on your table. Did you like coffee? Or tea? {"position":"2575,7525","size":"100,100"}
+
+
+
+
+Umbra: Tea. 
+
+Lilith: *under her breath* She is finally warming up to me.
+
+Gabriel: What kind of tea? Green, black, herbal?
+
+Umbra: SHUT UP.
+
+You pull your self-portrait out of your bag and show it to the figure.
+
+Lilith: I had to do a lot of work figuring out who I am and what to say about myself with this self-portrait. Now I am stronger than ever and I am confident in myself. Maybe if you need to consume a soul you need to consume your own.
+[["What do you remember about yourself? We need to cure this curse."]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: I need to go home {"position":"2025,4025","size":"100,100"}
+
+
+
+
+Lilith: I need to go home Ignis… This painting could be the door to a whole new set of possibilities! I really can’t afford to not finish it. I would love to stay and play around, and spend my time here, but I can’t have both. I have to go. I hope you can understand where I’m coming from. 
+
+*Ignis feels your words, and empathizes. Ignis starts to process its behaviours. The guilt of attacking a friend. Ignis’ only friend. The flames that were once running wild, smallens and calm. Ignis’ [[cries.]] *
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Ignore and move forward {"position":"1900,2650","size":"100,100"}
+
+
+
+
+*Disregarding whatever that was is probably for the best*
+[[move]]
+
+
+:: Investigate the object {"position":"2025,3025","size":"100,100"}
+
+
+
+(set: $Karma to it - 1)
+You push past the bush moving towards the object
+As you get closer, you realize that the light is reflected off a knife, a kitchen knife. 
+
+Lilith: Finally! An actual weapon. 
+
+You decide to retreat back to where you saw the sign. 
+
+[[Go up and read the sign]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep Going {"position":"2387.5,4400","size":"100,100"}
+
+
+
+
+
+*You strike over and over and with each strike less of Ignis. 
+Your knife glows brighter and brighter until eventually, *
+
+There is nothing left. 
+[[Rest]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep Striking {"position":"2512.5,4275","size":"100,100"}
+
+
+
+
+*You strike over and over and with each strike less of Ignis. 
+Your knife glows brighter and brighter until eventually, *
+
+There is nothing left. 
+A photograph floats down and lands infront of you
+[[Pick it up]] 
+[[Rest]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep going {"position":"1900,1875","size":"100,100"}
+
+
+
+
+
+
+
+*A lone frog hops in front of you and croaks*
+
+Lilith: Oh hello little guy. *a big smile appears across your face* 
+
+*The unknown seems daunting but your heart stays determined to find a way to explore among the uncertainty.*
+
+Gabriel: Oh wow this place looks so mysterious… I wonder if there’s a cabin. Wouldn’t it be cool if a big green monster lived in the middle of this swamp? 
+
+You reach into your pocket to find nothing. Staggered. A rush of adrenaline flows, and your mind starts rushing.
+
+
+[[*Think!*]]
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep going. {"position":"2387.5,4650","size":"100,100"}
+
+
+
+
+
+*Although you’re still alarmed by the events that occurred, you continue to move forward.* 
+*you stop, and you realize something*
+
+Lilith: Wait. We just fought a monster. 
+
+Gabriel: Right!
+
+Lilith: But where did it come from? Monsters aren’t…
+
+Alastor: Aren’t what? 
+
+Lilith: Real… 
+[[*You look down at your shoes.*]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep running {"position":"2675,5775","size":"100,100"}
+
+
+
+
+*The figure starts to take form. You are still running from the apparition and start to fatigue. As it takes its full form, you start to see a resemblance. You stop. *
+
+Lilith: Wait what… No… You’re not... Is that?
+
+Umbra: To me. It’s time to wake up Lilith. 
+
+*Umbra’s shadow gets bigger as she lunges towards you. You use your light to consume you. *
+[[Wake up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Keep searching {"position":"2625,6400","size":"100,100"}
+
+
+
+
+
+Alastor: Can we leave? 
+
+Lilith: No, we can’t just run away. What if this thing follows us?
+You see a cabinit you had not yet checked 
+[[Look inside?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Leave it {"position":"2750,7150","size":"100,100"}
+
+
+(set: $Karma to it + 3)
+*You decide to leave the note behind and [[Go back to the hallway and procede]]*
+
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Left {"position":"2475,6150","size":"100,100"}
+
+
+
+
+It is a bathroom. The smooth porcelain of the sink and bathtub juxtaposes with the dilapidated walls. Vines trail up the walls.
+
+*You walk up to the mirror. Cracks fill the mirror. Whoever broke it must have seven years of bad luck.*
+
+Lilith: I look rough… I have been trying to leave this place for a long time. 
+
+Gabriel: But you look like an adventurer! 
+
+Behind you, a dark figure in the shape of a human appears and disappears. 
+[[!]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Listen closely {"position":"1875,425","size":"100,100"}
+
+
+
+
+
+
+
+?:  Finally she’s awake! 
+
+[[HUH? Where’d that come from?]]
+
+[[What was that?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Look in the mirror {"position":"2750,6775","size":"100,100"}
+
+
+
+
+Lilith: No dark figures behind me this time. Thank god.
+
+*You look down into the sink which is full of water and overflowing onto the floor. Your sketchbook is placed in the water.*
+Pick up the sketchbook?
+[[Yes.]] or [[No.]]
+
+
+:: Look inside? {"position":"2625,6525","size":"100,100"}
+
+
+
+
+*Inside are many trinkets. Nothing here is useful. There is a house with chicken legs… that is quirky for sure.*
+
+Alastor: Who thought to go to the store and think “Wow I need another little thing to put on my shelf” Come on these tacky decorations are just a waste of space. 
+
+Lilith: Me actually.
+
+*You exhaust the living area space for new items and go into the hallway. A glowing red light floods from the door of the bathroom. *
+
+Lilith: What the hell?
+[[Go inside]] or Reatreat and [[Go back to the hallway and procede]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Move Forward {"position":"2150,3275","size":"100,100"}
+
+
+
+
+
+
+*The swamp draws closer. *
+
+*You hear something sizzling, did someone turn on the barbecue grill? *
+Alastor and Gabriel: “That's no barbecue grill, that’s a monster.”
+Are you ready?
+[[Yes]]
+[[No]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: No {"position":"2275,3400","size":"100,100"}
+
+
+
+You’ll be fine, You don’t have much of a choice anyways.
+[[ what do you mean by no choice…?]]
+
+
+:: No. {"position":"2750,6900","size":"100,100"}
+
+
+
+(set: $Karma to it - 3)
+Lilith:What use will a sketchbook do me here?
+*You leave the bathroom, extremely confused and make your way down the hallway [[once more. ]]*
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Okay…? I’m Lilith. I’m still kind of scared, why can’t I see you? {"position":"1875,825","size":"100,100"}
+
+
+
+
+
+
+
+Gabriel: That’s because I’m in your head silly! Stuck inside your subconscious, I’ve been here for quite a while, you just haven’t noticed. Though, it does seem weird of you to be noticing now… 
+
+[[ In my head? what?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: One more shot {"position":"2450,7900","size":"100,100"}
+
+
+
+
+*You struggle to aim but successfully shoot the gun at the monster. *
+
+*The shadow fades into the air. Left behind is a photo. It is your graduation photo from University. You got your design degree when you really wanted a fine arts degree. But you knew design would make you more money. Still, the industry is saturated with talent and you are not making as much money as you wish. Maybe, you should have taken a STEM degree. But… the design degree was the hardest that you ever worked for in your life. The satisfaction of finally graduating filled you with joy. *
+
+[[Then suddenly.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Open your eyes {"position":"1675,425","size":"100,100"}
+
+
+
+
+
+
+
+*You start thinking*
+
+Lilith: Did I fall asleep again? I was supposed to be on my way home so I could finish the painting for the exhibit. What is this place? And why does it look so… *mucky*?  
+
+*You hear faint noises, sounds like someone is trying to talk to you.*
+
+
+[[Listen closely]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Pick it up {"position":"2025,4400","size":"100,100"}
+
+
+
+
+
+*The photograph shows 7 year old Lilith at your first easel drawing what seems to resemble a flower. The memory replays in your head remembering your parents encouraging you to make art. However, now they do not approve of your career as an artist and want you to get a ‘real’ job. Somehow through pacifying the monster Ignis of the swamp fills you with the motivation to keep pushing forward.*
+
+*You pick up the photograph from the ground and place it carefully in your pocket.*
+
+[[Rest]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Pick up {"position":"2200,2900","size":"100,100"}
+
+
+
+(set: $Karma to it + 2)
+
+
+
+A floating object appears in front of Ignis. It is a compass. The compass lowers into your hand. The cold metal is unsettling.
+
+You look down at the compass for its directional abilities to maybe find a solution out of here. Suddenly the dial of the compass starts spinning uncontrollably. As the dial spins you try to read the directions. North West East and South are all shaking and mix into unrecognizable symbols. 
+
+You look up in panic to find the floating apparition gone. Far in the distance, you see a faint blue flame and run toward it. 
+
+[[turn around]]
+
+
+
+:: Pick up the palette knife {"position":"1900,2150","size":"100,100"}
+
+
+
+
+
+(set:$Karma to it + 1)
+*The palette knife fits perfectly in your hand.*
+
+*You begin to reminisce about the painting you are currently working on for your upcoming exhibition. The paint marks on the palette knife suggest its heavy use. Your art supplies always seem to get covered in every colour imaginable no matter how clean you try to be.*
+
+Lilith: Guess it's better than nothing. 
+
+[[Walk forward]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Rest {"position":"2387.5,4525","size":"100,100"}
+
+
+
+
+*You exclaim a sigh of relief* 
+
+Lilith: Why is it so hard?
+
+*While your face shows no emotion, streams of tears run down your face.*
+
+Alastor:  It was never meant to be easy. If it were easy, everyone would have already gotten there. 
+
+Gabriel: Only a few choose to take the path that you’re going on. 
+If your path is difficult, it’s because your calling is higher. 
+So just trust in it. 
+[[Keep going.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Right {"position":"2362.5,6150","size":"100,100"}
+
+
+
+
+Inside looks to be a kitchen. The stove seems to have endured the forces but is rusted. The countertop has dishes that never seem to be put away. It is like this space is a time capsule, left to rot away. Some of the dishes are broken. The pieces cover the counter with a mosaic-like pattern. There are containers of ingredients, you read the labels, and they are for cooking. This kitchen seems to be a heavily used place. Perhaps cooking was one of the occupants’ favourite activities.
+
+Lilith: What happened to the people living here?
+
+A table with a lone mug rests. It is as if someone was just having a cup of coffee. You look inside, all of the liquid has evaporated. 
+*A sad feeling consumes you. This cottage feels nostalgic but you have never been here before.It has suddenly become more difficult to breathe. Is it from the dust or am I about to cry? *
+[[Am I?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Run {"position":"2675,5650","size":"100,100"}
+
+
+
+(set: $Karma to it + 1)
+*Your anxiety rises, and not wanting to stay any longer, you start running. *
+
+?: Do you really think you can run away from me? 
+As you run, you look behind you, the distance remains the same from where you initially stood. 
+
+?: You can’t run from me, Lilith. Even if you try, even if you find another way, all roads will lead back…
+[[Keep running]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Start {"position":"1150,400","size":"100,100"}
+
+
+
+
+
+
+
+“Creativity is not a variable. Creativity comes from confidence; curiosity, and experience. Creativity is just things that you’ve bothered to do, things you’ve had ideas to do, and things you’ve done.”
+
+- David Gauntlett 
+
+(set:$Karma to 0)
+[[...]]
+
+
+:: Strike again {"position":"2387.5,4150","size":"100,100"}
+
+
+
+(set: $Karma to it -1)
+*You strike over and over, each time the knife connects it phases through the flames. As if Ignis were not there. Alastor notices.*
+
+Alastor: Lilith it’s working! The flames are going down! 
+[[Again]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Strike again. {"position":"2512.5,4150","size":"100,100"}
+
+
+
+
+*Ignis is quickly shrinking.*
+
+*Ignis cries in agony. *
+
+Ignis: Stop it! It really hurts!
+
+Gabriel: Maybe we should stop.
+
+Alastor: What? But this is the best part! 
+
+Ignis attempts to move back.
+
+[[Keep Striking]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take a look {"position":"1900,2000","size":"100,100"}
+
+
+
+
+
+
+*You move a branch out of the way to uncover the object. The handle is made from wood and the blade reflects what little light comes from your lantern. *
+
+Lilith: What? This is a palette knife for mixing paint. What am I going to do with this? It is extremely dull.
+
+Gabriel: Monsters roam this forest, It is best to avoid them were you can, but if you must, you can use this to defend yourself.
+
+Lilith: With this? It couldn't cut through flesh, never mind a monster. 
+
+Alastor: Anything can be a weapon if you use it well, you'll be suprised by how effective that knife can be.
+
+[[Pick up the palette knife]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take a look. {"position":"2575,7900","size":"100,100"}
+
+
+
+
+Lilith: I guess I will never know her name. At least I helped her cross over from the spirit realm to the afterlife.
+
+*You pick up the photograph. It is a drawing of your family. You are seen with your natural hair colour, brown before you ever dyed your hair. Your parents are on either side of you both with huge smiles. Your most recent self-portrait really shows how much you have come into your identity and become who you wanted to be. Little Lilith is almost unrecognizable from you now.*
+
+[[Then suddenly.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take in the beauty {"position":"2400,8275","size":"100,100"}
+
+
+
+
+
+Lilith: I have never seen something like this before. It is beautiful.
+
+Lilith: Gabriel, Alastor look!
+
+Mesmerized by the fantastical sky you feel calm. The sun grows brighter. Soon your eyes are filled with such light that it is too bright to see. 
+
+Lilith: …
+
+You open your eyes. You see your ceiling, a very different view from an enchanted forest. The light is coming through your window through the sheer curtains radiating heat onto wherever the sun beams touch. Your cat is curled up on your bed sunbathing.
+[["How long have I been asleep Clementine?"]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take it from the chest {"position":"2625,7150","size":"100,100"}
+
+
+
+(set: $Karma to it + 1)
+Lilith: I barely have enough space in my bag to hold this but I can’t just leave it. 
+
+*You manage to stuff the sketchbook into your bag. The top sticks out. *
+
+*You look up into the other room and see a bed. You start yawning and fall into a state of tiredness that cannot be shaken.*
+
+[[Go back to the hallway and procede]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take the opprotunity and strike with the pallet knife {"position":"2025,4275","size":"100,100"}
+
+
+
+(set: $Karma to it + 1)
+*The Knife sinks into it's form, The flames that make up it's form die out, one by one. It leaves behind a Photograph *
+
+[[Pick it up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Take the opprutunity and strike with the Kitchen knife {"position":"2150,4275","size":"100,100"}
+
+
+
+(set: $Karma to it - 5)
+*The Knife sinks into it's form, The flames that make up it's form die out, one by one. It leaves behind a Photograph *
+
+[[Pick it up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Talk {"position":"2200,2775","size":"100,100"}
+
+
+
+
+Lilith: Hello? I guess I should introduce myself. I am Lilith. 
+
+?: Ignis is the name.
+
+Ignis: I found this. One of my friends gave it to me. Well… dropped it because they ran away. Maybe we were just playing tag. Or.. I scared them off. 
+
+[[Pick up]]
+[[Turn around]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Talk. {"position":"2575,7275","size":"100,100"}
+
+
+
+(set: $Karma to it + 1)
+Lilith: P-please get off of my chest.
+
+*The shadow constricts you. *
+
+?: My name is Umbra. I have been stuck in this cabin and I cannot leave. 
+
+Lilith: Then why do you look exactly like me?
+
+Umbra: I need to consume the souls of those who come to my cabin so I can become human again and leave. You are next. 
+
+Lilith: Please just listen to me.
+
+Umbra: …
+[["Do you remember when you were human"]]
+
+
+
+:: The next day {"position":"2400,8525","size":"100,100"}
+
+
+
+
+Your painting was a hit at the art exhibition. Hundreds of people came to look at your artwork. Your painting was sold to a collector. You also have many commissions lined up. You are inspired to keep going and make what makes you happy. 
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: The next day. {"position":"2650,8525","size":"100,100"}
+
+
+
+
+Your phone is ringing. You answer the phone. Speaking on the other end is the hiring manager. You are sure they are going to tell you that they are moving along with other candidates. To your surprise, after your second interview, they did choose you. You now work at one of the most prestigious companies in your city. Instead of focusing on painting you now do visual communication design. Not originally what you wanted to do, but you make the most of it and find joy in turning people’s design dreams into reality.
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Then suddenly. {"position":"2525,8025","size":"100,100"}
+
+
+
+(if:$Karma > 10)[[A door appears]]
+(if:$Karma < 10)[[A door appears.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Turn around {"position":"2025,2775","size":"100,100"}
+
+
+(set: $Karma to it - 1)
+Lilith: Yeah, I don’t like the sound of this, I’m gonna go back. 
+
+As you walk through the forest, a pack of howls come from afar. 
+
+Lilith: What was that?
+
+Alastor: Did you not hear that wolf? I would be careful if I were you. You need to get going.
+
+Lilith: Going where? 
+
+Alastor: Anywhere but here. 
+[[move]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+
+
+
+
+:: Turn around. {"position":"2625,6775","size":"100,100"}
+
+
+
+
+
+*Nothing is there.*
+
+[[Look in the mirror]]
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Untitled Passage [start] {"position":"1000,400","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Start]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1167302374633775104/deep-in-the-dell-126916.mp3?ex=654da20d&is=653b2d0d&hm=aec90761f63e71369efa2da4d2f029bab76fc0a2ce4dd444bbb0f33d7509a1e6&" autoplay>
+
+
+:: Use the kitchen knife {"position":"2387.5,4025","size":"100,100"}
+
+
+
+(set: $Karma to it - 2)
+*It goes straight to Ignis’ flames, a cold touch, and seems to have not done any damage. *
+[[Strike again]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Use the kitchen knife. {"position":"2500,5525","size":"100,100"}
+
+
+
+(set: $Karma to it - 1)
+You wield your Kitchen knife from earlier. Ready to swing. 
+
+?: Aw, you wouldn’t use that to hurt anyone, would you? 
+
+Lilith: Shut up. You’re not real! I’m not afraid to swing if it means getting out of here! 
+
+?: Not real? You really don’t get it, do you?
+
+*A dark figure starts to take form in front of you.* 
+[[Attack]] [[Run]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Use the pallet knife {"position":"2512.5,4025","size":"100,100"}
+
+
+(set: $Karma to it + 2)
+
+*It goes straight to Ignis’ flames, a cold touch, and seems to have not done any damage. *
+
+[[Strike again.]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Use the pallet knife. {"position":"2375,5525","size":"100,100"}
+
+
+
+(set: $Karma to it + 1)
+*You wield your Palette Knife and immediately get it swiped from your hands. 
+The Palette Knife is pointed toward you. You try to grab the palette knife, but it moves back. A hazy figure starts to fade in from the void, a ghost? It takes form and wields the Palette knife in her hand. As it takes its full form, you start to see a resemblance. *
+
+Lilith: Why… Do you look like… 
+
+Umbra: Me? It’s time to wake up Lilith! 
+
+*Umbra lunges forward and swings the knife at you. *
+
+[[Wake up]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: WAIT THERE’S TWO?! AM I GOING CRAZY? {"position":"1750,1475","size":"100,100"}
+
+
+
+
+
+
+
+Alastor: It’s okay, let me give it to you straight, I’m Alastor, and I’m just here as a guide for you to get to where you want to be. What Gabriel *SHOULD* have told you was that we actually know where to go.
+
+Gabriel: Oh right, sorry I got really excited when she told me that I was being heard. 
+
+[[Wait so you guys know how to get out of here? ]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Wait so you guys know how to get out of here?\  {"position":"1825,1625","size":"100,100"}
+
+
+
+
+
+
+I gotta get out of here as soon as I can. 
+There’s a painting I’m supposed to show for a new exhibit tomorrow and it’s not entirely finished. 
+
+Alastor: Alright well, you just have to follow us, we’ll get you to where you need to go.
+
+Gabriel: Yeah, follow us! 
+
+*A path appears in the thick of the forest and although foreign seems promising. A wide array of foliage frames the dirt pathway.*
+
+[[Enter]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Wait there’s another one? {"position":"1975,1500","size":"100,100"}
+
+
+
+
+
+
+
+Alastor: It’s okay, let me give it to you straight, I’m Alastor, and I’m just here as a guide for you to get to where you want to be. What Gabriel *SHOULD* have told you was that we actually know where to go.
+
+Gabriel: Oh right, sorry I got really excited when she told me that I was being heard. 
+
+[[Wait so you guys know how to get out of here? ]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Wait we can talk about this {"position":"2025,3900","size":"100,100"}
+
+
+
+(set: $Karma to it + 2)
+Before another attack, Ignis stops for a moment. 
+
+Lilith: Look, I know you want me to stay but I really do have to go. 
+
+There’s a painting I have to finish. I’m an artist and I want to make big things someday.
+
+It’s almost done. There’s just one missing piece to it, and I can’t complete it unless I go home. 
+
+Ignis: But what if you didn’t need to finish this… painting right? What if you just stayed here with me? Be my friend, and play with me day-in and out. We’d have so much fun together. This forest has been around for hundreds of years, and with that so many years of loneliness. 
+
+[[I need to go home]]
+[[Take the opprotunity and strike with the pallet knife]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Wake up {"position":"2425,5775","size":"100,100"}
+
+
+
+
+
+*Your eyes open. The same abandoned building you had passed out in. Voices start fading in again, and soon you hear the repetition of a familiar voice. *
+
+Alastor: Let’s get going. We have no time to rest.
+[[Get going]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Walk closer {"position":"2150,3525","size":"100,100"}
+
+
+
+
+
+*As you approach the middle of the swamp, you see no monster, the silence sends chills down your spine. You hear bubbling under your feet and as you look down, the water around your feet starts to boil. You look up, the flames swirl above you, slowly building into the creature you met a few moments ago. Ignis? Its flames get bigger, and the face of its crying souls form. *
+
+Life and death. A peaceful cycle that is ever flowing in the growth of the flames.
+[[Wonder]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Walk forward {"position":"2025,2275","size":"100,100"}
+
+
+
+
+
+
+
+*A glowing blue flame appears next to one of the hundreds of cedar trees then floats behind the trunk for cover. *
+
+Lilith: I could’ve sworn I just saw a blue light. 
+
+Gabriel: Another friend?!
+
+Alastor: I don’t think that’s a friend. Get that knife and stab the thing! 
+
+Choice: A voice appears.
+
+?:  Traveller?
+
+[[ What do you want, why am I here?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: What was that? {"position":"2000,675","size":"100,100"}
+
+
+
+
+
+
+
+Gabriel: Woah that’s new! You can hear me! Sorry for the disturbance, but I see that you woken up and I couldn’t help but say hi I’m Gabriel.
+
+
+ 
+ [[Okay…? I’m Lilith. I’m still kind of scared, why can’t I see you?]]
+ <audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Wonder {"position":"2150,3650","size":"100,100"}
+
+
+
+Ignis: Don’t leave me.. Stay with me forever.. I have been in this forest for years. I can’t find a way out. Every human who sees me runs away… 
+[[..]].
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Yes {"position":"2150,3400","size":"100,100"}
+
+
+
+
+
+*You step into the swamp, with flies surrounding you. On top of the bog a blue flame hovers with no flicker. The flame beautiful, encaptivating, almost hypnotizing you think to yourself.*
+
+Lilith: It’s so pretty…
+
+[[Walk closer]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: Yes. {"position":"2625,6900","size":"100,100"}
+
+
+
+
+(set: $Karma to it + 2)
+*You pick up what is definitely your sketchbook. You painted the outside just how you like it. When you look inside you see a sketch of your art due tomorrow. There are notes accompanying the sketch. When you try to read the notes they dance around on the page rearranging and are unable to be read. The red light flickers and then disappears.*
+
+*You leave the bathroom, extremely confused and make your way down the hallway *[[once more. ]]
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: You pass out {"position":"2375,5275","size":"100,100"}
+
+
+
+
+
+*You wake up in a small void, pitch black. From the overstimulation from the previous realization, you have fallen into a trance. Anxious, you start trying to look around.*
+
+Lilith: Hello? Is anyone out there?
+
+*A voice comes from the void*
+
+?: Do you think you have what it takes? You’re not good enough! 
+
+[["Stop it"]]  
+[["Who is that"]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: cries. {"position":"2025,4150","size":"100,100"}
+
+
+
+
+Ignis: I am so sorry. This whole time I’ve been so focused on what I wanted, it pushed me off the edge. You should go and work towards the path that you want to create. 
+
+*Ignis wipes the molt running down his face. *
+
+Ignis: This may be the last time I see you… Can I just ask for one thing? 
+
+Lilith: Sure.. What is it..
+
+Ignis: Can I have a hug? 
+[[Hug.]]
+[[Take the opprotunity and strike with the pallet knife]](if:(history: where its name contains "Investigate the object.")'s length is 1)
+[[Take the opprutunity and strike with the Kitchen knife]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: dodge {"position":"2450,3900","size":"100,100"}
+
+
+
+
+
+*You dodge the attack. Barely. *
+
+*If it connected, you would’ve been done for.*
+
+Lilith: Guys I could use some help over here! 
+
+Alastor: This thing is not going to let you leave unless you do something about it.
+If you really want to get out of here, you’re going to have to kill it. 
+
+Gabriel: Yeah, this thing doesn’t look like it’s going to stop. Maybe use the palette knife. It might be less painful
+
+Alastor: Less painful? Don’t make me laugh! 
+
+Lilith: Guys you’re not helping! 
+
+[[Use the kitchen knife]]
+[[Use the pallet knife]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: ignore {"position":"2275,2650","size":"100,100"}
+
+
+
+(set: $Karma to it - 1)
+Lilith: Maybe Alastor is right. I think I’ll take your advice, and find my way out of here. 
+
+Alastor: As you should. 
+[[Turn around]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: move {"position":"2025,2900","size":"100,100"}
+
+
+
+
+*You see a reflection coming from the nearby bushes. As you think about investigating something catches your eye.* 
+
+Gabriel: Ooo, shiny! You should pick it up!
+
+*Along the path, you see a signpost in front of you.* 
+
+Alastor: Forget about that, you should read what the sign says. It must be a way out. 
+
+[[Investigate the object]]
+[[Go up and read the sign]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: once more.\  {"position":"2625,7025","size":"100,100"}
+
+
+
+
+Lilith: This is getting really strange. I need to find this creature. I think it is having too much fun toying with me.
+
+*Underneath the rubble, you uncover a chest. 
+
+Inside the chest is your favourite artwork you have made. It is a self-portrait made of paint. You styled your hair, did your makeup your favourite way, and wore your favourite accessories posing for the portrait.*
+
+Inside lies a note 
+[[Take it from the chest]] [[Leave it]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: turn around {"position":"1875,2775","size":"100,100"}
+
+
+
+
+
+*As you walk through the forest, a pack of howls come from afar. *
+Lilith: What was that?
+
+Alastor: Did you not hear that wolf? I would be careful if I were you. You need to get going.
+
+Lilith: Going where? 
+
+Alastor: Anywhere but here. 
+[[move]]
+
+
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+
+:: wait so I’m stuck here?! {"position":"2000,1300","size":"100,100"}
+
+
+
+
+
+
+
+?:  Stop scaring her! Sorry about Gabriel. He has a tendency to scare you, with all of these made up stories. You can get out of here easily, we just have to go for a walk. 
+
+
+[[Wait there’s another one?]]
+[[WAIT THERE’S TWO?! AM I GOING CRAZY?]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: what do you mean by, never…? {"position":"1800,1300","size":"100,100"}
+
+
+
+
+
+
+
+?: Stop scaring her! Sorry about Gabriel. He has a tendency to scare you, with all of these made up stories. You can get out of here easily, we just have to go for a walk. 
+
+
+[[Wait there’s another one?]] 
+[[WAIT THERE’S TWO?! AM I GOING CRAZY?]]<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: why did that sound so ominous… {"position":"2025,1125","size":"100,100"}
+
+
+
+
+
+
+
+Gabriel: Anyways FRIEND! If you haven’t noticed, we’re stuck in the forest. We should probably try to get out as soon as possible. There’s been a lot of stories about this forest. A lot of lost souls, wonder about here. A few of them have walked out, but for the majority, they never leave…
+
+[[wait so I’m stuck here?!]] [[what do you mean by, never…?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: “I have to go, if you won’t let me leave, I’ll find my own way out." {"position":"2025,3650","size":"100,100"}
+
+
+
+(set: $Karma to it + 3)
+Ignis: So then it’s really come to this..
+
+*Ignis rushes towards you followed by a trail of frost. Upset Ignis’ flames turn blue.*
+
+*Ignis throws elemental shards of ice at you. *
+
+[[Dodge]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: “Okay cool!” {"position":"1750,1125","size":"100,100"}
+
+
+
+
+
+
+
+Gabriel:  Anyways FRIEND! If you haven’t noticed, we’re stuck in the forest. We should probably try to get out as soon as possible. There’s been a lot of stories about this forest. A lot of lost souls, wonder about here. A few of them have walked out, but for the majority, they never leave…
+
+[[wait so I’m stuck here?!]]
+[[what do you mean by, never…?]]
+<audio src="https://cdn.discordapp.com/attachments/1151184461527011481/1171908896756084747/mystic-forest-ambient-23812.mp3?ex=655e6436&is=654bef36&hm=017c82bce4e9cb9a0d700add8c3e3c9b1ab34a8bd829e8f94dded1f7f1ee1ccf&" autoplay>
+
+
+:: StoryScript [script]
+var Knife=0
+
+
+:: StoryStylesheet [stylesheet]
+tw-story{background-image:url("https://cdn.discordapp.com/attachments/1151183460749283450/1169844123675664454/Eden_background_.png?ex=6556e13d&is=65446c3d&hm=572197d1cf1d4013b70efb73166228c50f70455e4b756144e52c41d7e08c83c0&");background-size:cover;}
+tw-story[tags~="start"]{background-image:url("https://cdn.discordapp.com/attachments/1151183460749283450/1169846119690416138/EDEN_new.png?ex=6556e319&is=65446e19&hm=b8d52ff4c14dace966834d9061a03b5f325c24b12a3a278c8009dfcae593008c&");background-size:cover;}
